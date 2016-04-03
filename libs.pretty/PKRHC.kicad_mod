@@ -1,0 +1,14 @@
+(module PKRHC (layer F.Cu) (tedit 56B646A7)
+  (fp_text reference empty1 (at 0 5.08) (layer F.SilkS) hide
+    (effects (font (size 0.127 0.127) (thickness 0.000001)))
+  )
+  (fp_text value "" (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 0.127 0.127) (thickness 0.000001)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 7.0013 7.0013) (drill 2.4994) (layers *.Cu *.Mask F.SilkS))
+  (model cherry_mx1.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
