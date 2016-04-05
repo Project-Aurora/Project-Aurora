@@ -1,7 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP FLASH_HDR
-D Segger Jlink
-$ENDCMP
-#
-#End Doc Library
