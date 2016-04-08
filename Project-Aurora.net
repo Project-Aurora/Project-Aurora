@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/service/Project-Aurora/Project-Aurora.sch)
-    (date "Thu 07 Apr 2016 03:35:22 PM CEST")
+    (date "Fri 08 Apr 2016 12:42:59 PM CEST")
     (tool "Eeschema 4.0.2+dfsg1-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -1812,10 +1812,10 @@
   (libraries
     (library (logical device)
       (uri /usr/share/kicad/library/device.lib))
-    (library (logical conn)
-      (uri /usr/share/kicad/library/conn.lib))
     (library (logical Project-Aurora-cache)
-      (uri /home/service/Project-Aurora/Project-Aurora-cache.lib)))
+      (uri /home/service/Project-Aurora/Project-Aurora-cache.lib))
+    (library (logical conn)
+      (uri /usr/share/kicad/library/conn.lib)))
   (nets
     (net (code 1) (name /Sync)
       (node (ref U3) (pin 30))
