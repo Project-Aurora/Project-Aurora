@@ -28,11 +28,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:freescale_k20p64m72sf1
-LIBS:is31fl3732
-LIBS:case-ground
-LIBS:flash_hdr
-LIBS:tps62086
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
