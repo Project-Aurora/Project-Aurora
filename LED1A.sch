@@ -33,7 +33,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 4 6
+Sheet 5 6
 Title ""
 Date ""
 Rev ""
@@ -107,61 +107,61 @@ Text HLabel 9750 1950 0    60   Output ~ 0
 CA3
 Text HLabel 9750 1550 0    60   Output ~ 0
 CA1
-Text HLabel 2150 3450 2    60   Output ~ 0
+Text HLabel 2200 3450 2    60   Output ~ 0
 CA1
-Text HLabel 1750 3650 0    60   Output ~ 0
+Text HLabel 1800 3650 0    60   Output ~ 0
 CA7
-Text HLabel 1750 3450 0    60   Output ~ 0
+Text HLabel 1800 3450 0    60   Output ~ 0
 CA8
-Text HLabel 1750 3250 0    60   Output ~ 0
+Text HLabel 1800 3250 0    60   Output ~ 0
 CA9
-Text HLabel 2750 3650 0    60   Output ~ 0
+Text HLabel 2800 3650 0    60   Output ~ 0
 CA7
-Text HLabel 2750 3450 0    60   Output ~ 0
+Text HLabel 2800 3450 0    60   Output ~ 0
 CA8
-Text HLabel 2750 3250 0    60   Output ~ 0
+Text HLabel 2800 3250 0    60   Output ~ 0
 CA9
-Text HLabel 3150 3450 2    60   Output ~ 0
+Text HLabel 3200 3450 2    60   Output ~ 0
 CA2
-Text HLabel 3750 3650 0    60   Output ~ 0
+Text HLabel 3800 3650 0    60   Output ~ 0
 CA7
-Text HLabel 3750 3450 0    60   Output ~ 0
+Text HLabel 3800 3450 0    60   Output ~ 0
 CA8
-Text HLabel 3750 3250 0    60   Output ~ 0
+Text HLabel 3800 3250 0    60   Output ~ 0
 CA9
-Text HLabel 4150 3450 2    60   Output ~ 0
+Text HLabel 4200 3450 2    60   Output ~ 0
 CA3
-Text HLabel 4750 3650 0    60   Output ~ 0
+Text HLabel 4800 3650 0    60   Output ~ 0
 CA7
-Text HLabel 4750 3450 0    60   Output ~ 0
+Text HLabel 4800 3450 0    60   Output ~ 0
 CA8
-Text HLabel 4750 3250 0    60   Output ~ 0
+Text HLabel 4800 3250 0    60   Output ~ 0
 CA9
-Text HLabel 5150 3450 2    60   Output ~ 0
+Text HLabel 5200 3450 2    60   Output ~ 0
 CA4
-Text HLabel 5750 3650 0    60   Output ~ 0
+Text HLabel 5800 3650 0    60   Output ~ 0
 CA7
-Text HLabel 5750 3450 0    60   Output ~ 0
+Text HLabel 5800 3450 0    60   Output ~ 0
 CA8
-Text HLabel 5750 3250 0    60   Output ~ 0
+Text HLabel 5800 3250 0    60   Output ~ 0
 CA9
-Text HLabel 6150 3450 2    60   Output ~ 0
+Text HLabel 6200 3450 2    60   Output ~ 0
 CA5
-Text HLabel 6750 3650 0    60   Output ~ 0
+Text HLabel 6800 3650 0    60   Output ~ 0
 CA7
-Text HLabel 6750 3450 0    60   Output ~ 0
+Text HLabel 6800 3450 0    60   Output ~ 0
 CA8
-Text HLabel 6750 3250 0    60   Output ~ 0
+Text HLabel 6800 3250 0    60   Output ~ 0
 CA9
-Text HLabel 7150 3450 2    60   Output ~ 0
+Text HLabel 7200 3450 2    60   Output ~ 0
 CA6
-Text HLabel 8150 3450 2    60   Output ~ 0
+Text HLabel 8200 3450 2    60   Output ~ 0
 CA7
-Text HLabel 7750 3450 0    60   Output ~ 0
+Text HLabel 7800 3450 0    60   Output ~ 0
 CA8
-Text HLabel 7750 3250 0    60   Output ~ 0
+Text HLabel 7800 3250 0    60   Output ~ 0
 CA9
-Text HLabel 7750 3650 0    60   Output ~ 0
+Text HLabel 7800 3650 0    60   Output ~ 0
 CA6
 Text HLabel 8750 3250 0    60   Output ~ 0
 CA9
@@ -262,78 +262,78 @@ $EndComp
 $Comp
 L Led_RGB_CA D33
 U 1 1 56C9C1A0
-P 1950 3450
-F 0 "D33" H 1950 3800 50  0000 C CNN
-F 1 "Led_RGB_CA" H 1950 3100 50  0000 C CNN
-F 2 "mx2a:RGB" H 1905 3400 50  0001 C CNN
-F 3 "" H 1905 3400 50  0000 C CNN
-	1    1950 3450
+P 2000 3450
+F 0 "D33" H 2000 3800 50  0000 C CNN
+F 1 "Led_RGB_CA" H 2000 3100 50  0000 C CNN
+F 2 "mx2a:RGB" H 1955 3400 50  0001 C CNN
+F 3 "" H 1955 3400 50  0000 C CNN
+	1    2000 3450
 	1    0    0    -1  
 $EndComp
 $Comp
 L Led_RGB_CA D34
 U 1 1 56C9C3B3
-P 2950 3450
-F 0 "D34" H 2950 3800 50  0000 C CNN
-F 1 "Led_RGB_CA" H 2950 3100 50  0000 C CNN
-F 2 "mx2a:RGB" H 2905 3400 50  0001 C CNN
-F 3 "" H 2905 3400 50  0000 C CNN
-	1    2950 3450
+P 3000 3450
+F 0 "D34" H 3000 3800 50  0000 C CNN
+F 1 "Led_RGB_CA" H 3000 3100 50  0000 C CNN
+F 2 "mx2a:RGB" H 2955 3400 50  0001 C CNN
+F 3 "" H 2955 3400 50  0000 C CNN
+	1    3000 3450
 	1    0    0    -1  
 $EndComp
 $Comp
 L Led_RGB_CA D35
 U 1 1 56C9C4F1
-P 3950 3450
-F 0 "D35" H 3950 3800 50  0000 C CNN
-F 1 "Led_RGB_CA" H 3950 3100 50  0000 C CNN
-F 2 "mx2a:RGB" H 3905 3400 50  0001 C CNN
-F 3 "" H 3905 3400 50  0000 C CNN
-	1    3950 3450
+P 4000 3450
+F 0 "D35" H 4000 3800 50  0000 C CNN
+F 1 "Led_RGB_CA" H 4000 3100 50  0000 C CNN
+F 2 "mx2a:RGB" H 3955 3400 50  0001 C CNN
+F 3 "" H 3955 3400 50  0000 C CNN
+	1    4000 3450
 	1    0    0    -1  
 $EndComp
 $Comp
 L Led_RGB_CA D36
 U 1 1 56C9C542
-P 4950 3450
-F 0 "D36" H 4950 3800 50  0000 C CNN
-F 1 "Led_RGB_CA" H 4950 3100 50  0000 C CNN
-F 2 "mx2a:RGB" H 4905 3400 50  0001 C CNN
-F 3 "" H 4905 3400 50  0000 C CNN
-	1    4950 3450
+P 5000 3450
+F 0 "D36" H 5000 3800 50  0000 C CNN
+F 1 "Led_RGB_CA" H 5000 3100 50  0000 C CNN
+F 2 "mx2a:RGB" H 4955 3400 50  0001 C CNN
+F 3 "" H 4955 3400 50  0000 C CNN
+	1    5000 3450
 	1    0    0    -1  
 $EndComp
 $Comp
 L Led_RGB_CA D37
 U 1 1 56C9C7EA
-P 5950 3450
-F 0 "D37" H 5950 3800 50  0000 C CNN
-F 1 "Led_RGB_CA" H 5950 3100 50  0000 C CNN
-F 2 "mx2a:RGB" H 5905 3400 50  0001 C CNN
-F 3 "" H 5905 3400 50  0000 C CNN
-	1    5950 3450
+P 6000 3450
+F 0 "D37" H 6000 3800 50  0000 C CNN
+F 1 "Led_RGB_CA" H 6000 3100 50  0000 C CNN
+F 2 "mx2a:RGB" H 5955 3400 50  0001 C CNN
+F 3 "" H 5955 3400 50  0000 C CNN
+	1    6000 3450
 	1    0    0    -1  
 $EndComp
 $Comp
 L Led_RGB_CA D38
 U 1 1 56C9CA10
-P 6950 3450
-F 0 "D38" H 6950 3800 50  0000 C CNN
-F 1 "Led_RGB_CA" H 6950 3100 50  0000 C CNN
-F 2 "mx2a:RGB" H 6905 3400 50  0001 C CNN
-F 3 "" H 6905 3400 50  0000 C CNN
-	1    6950 3450
+P 7000 3450
+F 0 "D38" H 7000 3800 50  0000 C CNN
+F 1 "Led_RGB_CA" H 7000 3100 50  0000 C CNN
+F 2 "mx2a:RGB" H 6955 3400 50  0001 C CNN
+F 3 "" H 6955 3400 50  0000 C CNN
+	1    7000 3450
 	1    0    0    -1  
 $EndComp
 $Comp
 L Led_RGB_CA D39
 U 1 1 56C9CA6E
-P 7950 3450
-F 0 "D39" H 7950 3800 50  0000 C CNN
-F 1 "Led_RGB_CA" H 7950 3100 50  0000 C CNN
-F 2 "mx2a:RGB" H 7905 3400 50  0001 C CNN
-F 3 "" H 7905 3400 50  0000 C CNN
-	1    7950 3450
+P 8000 3450
+F 0 "D39" H 8000 3800 50  0000 C CNN
+F 1 "Led_RGB_CA" H 8000 3100 50  0000 C CNN
+F 2 "mx2a:RGB" H 7955 3400 50  0001 C CNN
+F 3 "" H 7955 3400 50  0000 C CNN
+	1    8000 3450
 	1    0    0    -1  
 $EndComp
 $Comp

@@ -28,6 +28,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:Project-Aurora-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -1331,8 +1332,6 @@ Text Label 14450 1100 0    60   ~ 0
 Row1Col14
 Text Label 14400 1600 0    60   ~ 0
 Row2Col14
-Text Label 14400 2100 0    60   ~ 0
-Row3Col14
 $Comp
 L SW_PUSH SW49
 U 1 1 56C98C35
@@ -1765,8 +1764,7 @@ Connection ~ 4950 1600
 Connection ~ 4950 2100
 Connection ~ 9200 1900
 Wire Wire Line
-	1500 2400 14400 2400
-Connection ~ 13550 2400
+	1500 2400 13550 2400
 Connection ~ 12700 2400
 Connection ~ 11850 2400
 Connection ~ 11000 2400
